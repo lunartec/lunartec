@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lunartec
 - 👀 I’m interested in frontend development and amazing UX
 - 🌱 I’m currently learning isometric and mobile native development
-- 💞️ I’m looking to collaborate on different loading patterns and techniques
+- 💞️ I’m looking to collaborate on different Ai projects
 
 <!---
 lunartec/lunartec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
